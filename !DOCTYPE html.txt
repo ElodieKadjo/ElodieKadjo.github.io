@@ -5,6 +5,7 @@
 </head>
 <body>
 <h1> Elodie </h1>
-<img src="C:\Users\elodi\Documents\Professional_website\Elodie_2.jpg">
+<img src="Elodie_2.jpg">
 	</body>
+
 </html>
